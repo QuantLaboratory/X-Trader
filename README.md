@@ -54,8 +54,8 @@ https://www.bilibili.com/cheese/play/ss19871
 <h3>捐助</h3>
 <p>如果您觉得我们的开源软件对你有所帮助，请扫下方二维码打赏我们一杯咖啡。</p>
 <table><tr>
-<td><img src="https://foruda.gitee.com/images/1767354466267474794/cff0945f_16543158.png" width="200" /></td>
-<td><img src="https://foruda.gitee.com/images/1767354490948751827/1f90ad17_16543158.jpeg" width="200" /></td>
+<td><img src="https://foruda.gitee.com/images/1767354466267474794/cff0945f_16543158.png" width="300" /></td>
+<td><img src="https://foruda.gitee.com/images/1767354490948751827/1f90ad17_16543158.jpeg" width="300" /></td>
 </tr></table>
 
 ### 联系
